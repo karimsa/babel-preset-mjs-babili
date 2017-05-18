@@ -1,0 +1,32 @@
+{
+  "name": "babel-preset-mjs-babili",
+  "version": "0.0.1",
+  "description": "Babel preset to minify mjs code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karimsa/babel-preset-mjs-babili.git"
+  },
+  "keywords": [
+    "babel",
+    "babel-preset",
+    "mongoose-os",
+    "mjs"
+  ],
+  "author": "Karim Alibhai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karimsa/babel-preset-mjs-babili/issues"
+  },
+  "homepage": "https://github.com/karimsa/babel-preset-mjs-babili#readme",
+  "dependencies": {
+    "babel-core": "^6.24.1",
+    "babel-preset-babili": "0.0.12",
+    "babel-preset-env": "^1.4.0",
+    "babel-register": "^6.24.1",
+    "babel-template": "^6.24.1"
+  }
+}
