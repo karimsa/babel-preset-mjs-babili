@@ -8,10 +8,6 @@
 require('babel-register')
 
 module.exports = {
-  presets: [
-    'babili'
-  ],
-
   plugins: [
     require('./lib/plugin.js').default
   ]
