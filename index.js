@@ -5,7 +5,11 @@
  * Copyright (C) 2017 Karim Alibhai.
  */
 
-require('babel-register')
+require('babel-register')({
+  presets: [
+    ['env']
+  ]
+})
 
 module.exports = {
   plugins: [
