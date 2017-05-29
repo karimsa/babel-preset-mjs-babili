@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-mjs-babili",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Babel preset to minify mjs code.",
   "main": "index.js",
   "scripts": {
