@@ -6,7 +6,7 @@ Babel preset to minify mjs code.
 
 | Restriction | Solution |
 | ----------- | -------- |
-| Sequence expressions are not supported by mjs. | **Not solved** |
+| Sequence expressions are not supported by mjs. | `log(),log()` -> `[log(),log()].pop()` |
 
 ## Usage
 
