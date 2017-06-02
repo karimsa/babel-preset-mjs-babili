@@ -5,8 +5,6 @@
  * Copyright (C) 2017 Karim Alibhai.
  */
 
-require('babel-register')
-
 const babel = require('gulp-babel')
     , babili = require('gulp-babili')
     , extend = require('deep-assign')

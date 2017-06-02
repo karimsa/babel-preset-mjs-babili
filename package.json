@@ -24,7 +24,6 @@
   "homepage": "https://github.com/karimsa/babel-preset-mjs-babili#readme",
   "dependencies": {
     "babel-preset-babili": "0.0.12",
-    "babel-register": "^6.24.1",
     "babel-template": "^6.24.1",
     "deep-assign": "^2.0.0",
     "gulp-babel": "^6.1.2",
